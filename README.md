@@ -35,10 +35,11 @@ You can download the Tableau workbook and related documents directly from the re
 - [Download AirBnB Tableau Project PDF](https://github.com/danartech/AirBnB-Tableau-Project/blob/main/AirBNB%20Tableau%20Project.pdf)
 - [View Tableau Public Project](https://public.tableau.com/views/AirBnBFullProject_17186788518380/AirBNBTableauProject?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
+  ![AirBnB Tableau Project](https://i.imgur.com/3gP7pKf.png)
+
 ## Additional Resources
 - [YouTube Tutorial: Full Beginner Project in Tableau](https://www.youtube.com/watch?v=zOR0-nygfDE): A tutorial series that guided the creation of this project.
 
-  ![AirBnB Tableau Project](https://i.imgur.com/3gP7pKf.png)
 
 ## Contact Me
 - **Email**: [danarfintech@gmail.com](mailto:danarfintech@gmail.com)
