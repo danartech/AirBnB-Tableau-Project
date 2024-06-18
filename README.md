@@ -31,8 +31,8 @@ This project involves analyzing an AirBnB dataset using Tableau to create intera
 
 ## Access the Files
 You can download the Tableau workbook and related documents directly from the repository:
-- [Download AirBnB Full Project Tableau Workbook](AirBnB%20Full%20Project.twbx)
-- [Download AirBnB Tableau Project PDF](AirBNB%20Tableau%20Project.pdf)
+- [Download AirBnB Full Project Tableau Workbook](https://github.com/danartech/AirBnB-Tableau-Project/blob/main/AirBnB%20Full%20Project.twbx)
+- [Download AirBnB Tableau Project PDF](https://github.com/danartech/AirBnB-Tableau-Project/blob/main/AirBNB%20Tableau%20Project.pdf)
 - [View Tableau Public Project](https://public.tableau.com/views/AirBnBFullProject_17186788518380/AirBNBTableauProject?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Additional Resources
