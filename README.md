@@ -45,3 +45,12 @@ You can download the Tableau workbook and related documents directly from the re
 - **Email**: [danarfintech@gmail.com](mailto:danarfintech@gmail.com)
 - **LinkedIn**: https://www.linkedin.com/in/dana-robinson-acct
 - **Tableau Profile**: https://public.tableau.com/app/profile/dana.robinson
+
+## Certifications
+
+Here are some of my professional certifications related to this project:
+
+  - 📊 [Google Data Analytics Professional Certificate](https://coursera.org/share/4ed75de36411d7d5c0389e2d61a2c2ff)
+<img src="https://i.imgur.com/lctxOq1.png" alt="Google Data Analytics " width="100"/>
+
+For a full list of my certifications, please refer to the [certifications section](https://github.com/danartech).
