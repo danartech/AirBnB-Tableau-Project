@@ -37,10 +37,6 @@ You can download the Tableau workbook and related documents directly from the re
 
   ![AirBnB Tableau Project](https://i.imgur.com/3gP7pKf.png)
 
-## Additional Resources
-- [YouTube Tutorial: Full Beginner Project in Tableau](https://www.youtube.com/watch?v=zOR0-nygfDE): A tutorial series that guided the creation of this project.
-
-
 ## Contact Me
 - **Email**: [danarfintech@gmail.com](mailto:danarfintech@gmail.com)
 - **LinkedIn**: https://www.linkedin.com/in/dana-robinson-acct
